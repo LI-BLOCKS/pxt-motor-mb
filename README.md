@@ -20,7 +20,7 @@ The expansion board USES 3.5v ~ 5.5v power supply, 3.5mm plug and wiring two pow
 
 ## Blocks
 ### 1.Servo
-![image](https://github.com/LI-BLOCKS/pxt-motor-mb/blob/master/image/1.png)
+![image](https://github.com/LI-BLOCKS/pxt-motor-mb/blob/main/image/1.png)
 
 ### 2.DC Motor
 ![image](https://github.com/LI-BLOCKS/pxt-motor-mb/blob/master/image/7.png)
