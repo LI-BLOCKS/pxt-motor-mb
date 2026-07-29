@@ -1,20 +1,13 @@
 /*！
  * @file pxt-motor/main.ts
- * @brief DFRobot's microbit motor drive makecode library.
- * @n [Get the module here](http://www.dfrobot.com.cn/goods-1577.html)
+ * @brief LIB-Drivers microbit motor drive makecode library.
  * @n This is the microbit special motor drive library, which realizes control 
  *    of the eight-channel steering gear, two-step motor and four-way dc motor.
  *
- * @copyright	[DFRobot](http://www.dfrobot.com), 2016
- * @copyright	GNU Lesser General Public License
- *
- * @author [email](1035868977@qq.com)
- * @version  V1.0.1
- * @date  2018-03-20
  */
 
 /**
- *This is DFRobot:motor user motor and steering control function.
+ *This is LIB-Driver:motor user motor and steering control function.
  */
 //% weight=10 color=#DF6721 icon="\uf013" block="LIB-Driver"
 namespace motor {
